@@ -4,7 +4,7 @@
 
 let fruits = ["apple", "mango", "grapes"];
 console.log(fruits);
-// push 
+//push 
 // fruits.push("banana");
 // console.log(fruits);
 // pop 
@@ -12,12 +12,12 @@ console.log(fruits);
 // console.log(fruits);
 // console.log("popped fruits is", poppedFruit);
 
-// unshift 
+// unshift  ------------> Starting me element add karta hai . 
 // fruits.unshift("banana");
 // fruits.unshift("myfruit");
 // console.log(fruits);
 
-// shift 
+// shift--------------> starting se element ko remove karta hai.
 // let removedFruit = fruits.shift();
 // console.log(fruits);
 // console.log("removed fruits is ", removedFruit);
